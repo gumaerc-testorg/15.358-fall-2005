@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: Photo of a computer on a desk.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-358-the-software-business-fall-2005/2fcc07d34da665697687ae7846519384_chp_computer.jpg
+file: /media/courses/15-358-the-software-business-fall-2005/2fcc07d34da665697687ae7846519384_chp_computer.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Computer
 uid: 2fcc07d3-4da6-6569-7687-ae7846519384
