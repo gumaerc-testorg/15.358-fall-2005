@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Computer
 uid: 2fcc07d3-4da6-6569-7687-ae7846519384
 ---
 Photo of a computer on a desk.
-
