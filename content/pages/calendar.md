@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, guest presentations,
+  videos, and key dates for assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 49223193-ba31-78d5-66e8-425faf65558f
 ---

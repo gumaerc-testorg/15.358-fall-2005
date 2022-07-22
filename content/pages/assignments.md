@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides guidelines for reaction papers, team project papers,
+  and a summary of student team topics.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 632ddc8d-e4a9-4df2-3c7a-20426a4716aa
 ---
