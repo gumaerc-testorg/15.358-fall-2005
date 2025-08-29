@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of a computer on a desk.
-file: /courses/15-358-the-software-business-fall-2005/2fcc07d34da665697687ae7846519384_chp_computer.jpg
+file: /ol-ocw-studio-app/courses/15-358-the-software-business-fall-2005/2fcc07d34da665697687ae7846519384_chp_computer.jpg
 file_size: 48509
 file_type: image/jpeg
 image_metadata:
